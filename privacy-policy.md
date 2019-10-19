@@ -6,7 +6,7 @@ permalink: /privacy-policy/
 
 Your privacy is important to us and we are committed to protecting it.
 
-This Privacy Policy describes how we collect, use, store, share and protect your information both on our digital platform and with our partners. This Privacy Policy applies when you install the application or access any of the platforms. This document is governed by the terms and conditions set forth in the Terms of Service located at www.autodo.app/terms-and-conditions/.
+This Privacy Policy describes how we collect, use, store, share and protect your information both on our digital platform and with our partners. This Privacy Policy applies when you install the application or access any of the platforms. This document is governed by the terms and conditions set forth in the [Terms of Service](www.autodo.app/terms-and-conditions/).
 
 By creating an account or simply accessing the platform, you expressly agree to the collection, use, disclosure and retention of your information as described in this document. 
 
@@ -23,13 +23,14 @@ The individual(s) creating and maintaining the **AUTODO APP** will be henceforth
 The following Third Party Services are used by the **AUTODO APP** and their privacy policies are linked here as a result:
 
 - [Google Play Services](https://www.google.com/policies/privacy/)
+- [Firebase](https://firebase.google.com/support/privacy)
 
 ## Information Collected
 
 Upon creation of an account with the **AUTODO APP**, the following data will be collected:
 
 - The user's email address. This email address is used to establish a unique identifier for your account and to provide a means of contact from the **AUTODO APP** to the user. This data is not shared with any other users, it is only visible to the developer.
-- The user's account password will be used to authenticate with the [Firebase Authentication]() service, and will **not** be stored locally or on any **AUTODO APP** servers. This password is encrypted and is not accessible in plain-text by any developer, user, or third party service.
+- The user's account password will be used to authenticate with the [Firebase Authentication](https://firebase.google.com/docs/auth/) service, and will **not** be stored locally or on any **AUTODO APP** servers. This password is encrypted and is not accessible in plain-text by any developer, user, or third party service.
 
 No data will be collected through use of the **AUTODO APP** except that which is explicitly input by the user. The following data is expected to be input by the user through typical usage of the **AUTODO APP**:
 
@@ -79,11 +80,11 @@ The **AUTODO APP** may contain links to other sites. If you click on a third-par
 
 ## Communications
 
-All communication by e-mail will comply with ABEMD rules, so there will be no SPAM. If you no longer wish to receive our communications by email, simply select this option in one of the messages sent from the **AUTODO APP**.
+All communication by e-mail will comply with CAN-SPAM rules, so there will be no spam. If you no longer wish to receive our communications by email, simply select this option in one of the messages sent from the **AUTODO APP**.
 
 Mobile notifications should be disabled in the Settings area of ​​your Android or iOS phone if they are no longer desired.
 
-If you detect any SPAM, please contact the **DEVELOPERS** at contact@autodo.app.
+If you detect any spam, please contact the **DEVELOPERS** at contact@autodo.app.
 
 ## Updates
 
@@ -93,5 +94,5 @@ If you don´t agree to any changes made to this Privacy Policy by an update, you
                     
 ## Contact Us
 
-If you have any questions or suggestions about the Privacy Policy, do not hesitate to contact the **DEVELOPERS** at contact@autodo.app.
+If you have any questions or suggestions about the Privacy Policy, do not hesitate to [contact](mailto:contact@autodo.app) the **DEVELOPERS**.
                   
